@@ -1,0 +1,8 @@
+.idea
+__pycache__
+build
+dist
+venv
+classes_IntroductionOOP.png
+main.spec
+packages_IntroductionOOP.png
